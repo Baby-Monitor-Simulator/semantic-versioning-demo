@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.2...v1.1.3) (2025-05-06)
+
+
+### Bug Fixes
+
+* print release outputs instead of just "release_created" ([d49c252](https://github.com/rikdgd/semantic-versioning-demo/commit/d49c252d9fbf3215bb6b894841586ded272ed7c1))
+* print release outputs instead of just "release_created" ([d015318](https://github.com/rikdgd/semantic-versioning-demo/commit/d01531800fb185ff65a265808fd77e014b47f4c4))
+
 ## [1.1.2](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.1...v1.1.2) (2025-05-06)
 
 
