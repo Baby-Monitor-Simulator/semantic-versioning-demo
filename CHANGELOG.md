@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.0...v1.1.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* Ensure test-job runs only if a release is created ([37a5802](https://github.com/rikdgd/semantic-versioning-demo/commit/37a5802a10373d83eada7ebfe162a9830e5c0c56))
+
 ## [1.1.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.0.0...v1.1.0) (2025-05-06)
 
 
