@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.1...v1.1.2) (2025-05-06)
+
+
+### Bug Fixes
+
+* Try to fix the if statement in the test-job, again. ([62f08dd](https://github.com/rikdgd/semantic-versioning-demo/commit/62f08ddd939eb1b3a0eae6f57b0e8d84ac990991))
+
 ## [1.1.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.0...v1.1.1) (2025-05-06)
 
 
