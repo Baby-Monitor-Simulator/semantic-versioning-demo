@@ -44,6 +44,28 @@ jobs:
             echo "No new release was created"
           fi
   
+  add-automerge-tag:
+    runs-on: ubuntu-latest
+    needs: release-please
+    if: ${{ needs.release-please.outputs.prs_created == 'true' }}
+    steps:
+      - name: add "automerge" tag
+        uses: actions/github-script@v7
+        with: 
+          script: |
+            const prNumber = Number(process.env.PR_NUMBER);
+            if (!prNumber) {
+              core.setFailed("PR number is missing");
+              return;
+            }
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.name,
+              issue_number: prNumber,
+              labels: ['automerge']
+            });
+  
   automerge-version-pull-request:
     runs-on: ubuntu-latest
     needs: release-please
