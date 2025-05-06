@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.0.0...v1.1.0) (2025-05-06)
+
+
+### Features
+
+* add a demo page ([955720b](https://github.com/rikdgd/semantic-versioning-demo/commit/955720bbe7e450415f50d014e8a5a819f200044e))
+* add a demo page ([20e39fa](https://github.com/rikdgd/semantic-versioning-demo/commit/20e39faab6b904316286e74fe5dc967baa8a0dbd))
+
 ## 1.0.0 (2025-05-06)
 
 
