@@ -10,6 +10,10 @@ app.get('/help', (req, res) => {
     res.send('<h1>Help page</h1>');
 });
 
+app.get('/demo', (req, res) => {
+    res.send('<h1>Demo page</h1>');
+});
+
 app.get('/stupid', (req, res) => {
     res.send('<h1>you stupid</h1>');
 });
