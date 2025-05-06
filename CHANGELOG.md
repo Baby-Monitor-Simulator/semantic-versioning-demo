@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.3...v1.1.4) (2025-05-06)
+
+
+### Bug Fixes
+
+* Update the workflow file ([3734f03](https://github.com/rikdgd/semantic-versioning-demo/commit/3734f0373b9ee26661aa64588bb1c5062c1765de))
+
 ## [1.1.3](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.2...v1.1.3) (2025-05-06)
 
 
