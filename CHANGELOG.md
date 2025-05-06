@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.3.0...v1.3.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* Update automerge action labels for consistency ([1a9bab9](https://github.com/rikdgd/semantic-versioning-demo/commit/1a9bab927981ae63da50120be201f58e887c3fc5))
+
 ## [1.3.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.2.1...v1.3.0) (2025-05-06)
 
 
