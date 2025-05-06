@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.2.1...v1.3.0) (2025-05-06)
+
+
+### Features
+
+* Add build docker image job and automerge version pull request step ([1167859](https://github.com/rikdgd/semantic-versioning-demo/commit/11678597382203a0ad64e1bb4bb4b5881a1e7dac))
+* Add build docker image job and automerge version pull request step ([f774a7e](https://github.com/rikdgd/semantic-versioning-demo/commit/f774a7e3283294719dbaddb02a52877286cacd65))
+
 ## [1.2.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.2.0...v1.2.1) (2025-05-06)
 
 
