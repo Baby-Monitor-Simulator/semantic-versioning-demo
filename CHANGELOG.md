@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.2.0...v1.2.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* Correct release output variable and improve print statements in … ([22b4b7c](https://github.com/rikdgd/semantic-versioning-demo/commit/22b4b7cfbd1a331dedee7bb0117c45d0c5969490))
+* Correct release output variable and improve print statements in workflow ([12b852d](https://github.com/rikdgd/semantic-versioning-demo/commit/12b852dedfc298c18ec9cc5d7f8f26073e696385))
+
 ## [1.2.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.4...v1.2.0) (2025-05-06)
 
 
