@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.4.1...v1.5.0) (2025-05-06)
+
+
+### Features
+
+* Add job to automatically tag pull requests with "automerge" ([a4b018e](https://github.com/rikdgd/semantic-versioning-demo/commit/a4b018e77f6679f86770c8d043af2356b96241c1))
+
 ## [1.4.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.4.0...v1.4.1) (2025-05-06)
 
 
