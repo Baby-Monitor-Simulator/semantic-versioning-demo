@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.4...v1.2.0) (2025-05-06)
+
+
+### Features
+
+* Update docs ([46df942](https://github.com/rikdgd/semantic-versioning-demo/commit/46df942ae04b68442d77d35b0b0100f0e555c02e))
+* Update docs ([d8ef507](https://github.com/rikdgd/semantic-versioning-demo/commit/d8ef507401310e68a4144fb913ed26c61318d73c))
+
 ## [1.1.4](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.1.3...v1.1.4) (2025-05-06)
 
 
