@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.3.1...v1.4.0) (2025-05-06)
+
+
+### Features
+
+* Add new route for automerge message ([dd3f592](https://github.com/rikdgd/semantic-versioning-demo/commit/dd3f592e0b2a47dd93ee604f21f445744ca9cf34))
+* Add new route for automerge message ([16e9345](https://github.com/rikdgd/semantic-versioning-demo/commit/16e9345fb8bab92efa71839de48063892849c9b5))
+
 ## [1.3.1](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.3.0...v1.3.1) (2025-05-06)
 
 
