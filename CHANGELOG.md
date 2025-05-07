@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.0...v1.6.1) (2025-05-07)
+
+
+### Bug Fixes
+
+* Update GitHub Actions script to use the correct API method for a… ([030a618](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/030a618df44da66e38586d8a32fabe1b42a8961a))
+
 ## [1.6.0](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.5.1...v1.6.0) (2025-05-07)
 
 
