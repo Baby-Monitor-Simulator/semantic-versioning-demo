@@ -22,7 +22,7 @@ jobs:
                         labels: ['automerge']
                     });
                 } else {
-                    console.log('The found pull request did not contain 'chore' in its title.');
+                    console.log('The found pull request did not contain "chore" in its title.');
                 }
                 
                 
