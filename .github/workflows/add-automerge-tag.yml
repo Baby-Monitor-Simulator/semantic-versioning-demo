@@ -1,0 +1,29 @@
+on:
+  pull_request:
+    types: ["opened", "reopened"]
+    
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+    steps: 
+        - name: Add "automerge" tag
+          uses: actions/github-script@v7
+          with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            script: |
+                const prNumber = context.payload.pull_request.number;
+                const prName = context.payload.pull_request.title;
+                
+                if (prName.substring(0, 5) === 'chore') {
+                    await github.issues.addLabels({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        issue_number: prNumber,
+                        labels: ['automerge']
+                    });
+                } else {
+                    console.log('The found pull request did not contain "chore" in its title.');
+                }
+                
+                
+    

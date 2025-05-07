@@ -15,14 +15,6 @@ app.get('/demo', (req, res) => {
     res.send('<h1>Demo page</h1>');
 });
 
-app.get('/stupid', (req, res) => {
-    res.send('<h1>you stupid</h1>');
-});
-
-app.get('/f-automerge', (req, res) => {
-    res.send('<h1>Everyone likes automerge ofcourse.</h1>');
-});
-
 app.listen(port, () => {
     console.log(`App started listening on port ${port}`);
 });
