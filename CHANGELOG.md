@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.5.0...v1.5.1) (2025-05-07)
+
+
+### Bug Fixes
+
+* Use a constant for the port number in the server setup ([b93a13b](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/b93a13bb7cefe52537455b5b37442ba55a56730b))
+* Use a constant for the port number in the server setup ([e00204c](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/e00204c51bed7c48593d580d008212bf8c273c22))
+
 ## [1.5.0](https://github.com/rikdgd/semantic-versioning-demo/compare/v1.4.1...v1.5.0) (2025-05-06)
 
 
