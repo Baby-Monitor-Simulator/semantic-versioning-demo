@@ -28,5 +28,21 @@ jobs:
                 } else {
                     console.log('The found pull request did not contain "chore" in its title.');
                 }
+  
+  automerge-version-pull-request:
+    runs-on: ubuntu-latest
+    needs: add-label
+    steps:
+      - id: automerge
+        name: automerge
+        uses: "pascalgn/automerge-action@v0.15.6"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: "automerge"
+          MERGE_REMOVE_LABELS: "automerge"
+      - name: feedback
+        if: ${{ steps.automerge.outputs.mergeResult == 'merged' }}
+        run: |
+          echo "Pull request ${{ steps.automerge.outputs.pullRequestNumber }} merged!"
                 
                 
