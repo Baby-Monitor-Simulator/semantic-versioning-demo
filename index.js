@@ -1,5 +1,6 @@
 const express = require('express');
 
+const port = 3000;
 const app = express();
 
 app.get('/', (req, res) => {
@@ -22,6 +23,6 @@ app.get('/f-automerge', (req, res) => {
     res.send('<h1>Everyone likes automerge ofcourse.</h1>');
 });
 
-app.listen(3000, () => {
-    console.log('App started');
+app.listen(port, () => {
+    console.log(`App started listening on port ${port}`);
 });
