@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.5](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.4...v1.6.5) (2025-05-07)
+
+
+### Bug Fixes
+
+* give the workflow all writing permissions ([f8436aa](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/f8436aa026370cd624e8cc1322d1a5c96aafb868))
+
 ## [1.6.4](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.3...v1.6.4) (2025-05-07)
 
 
