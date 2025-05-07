@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.4](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.3...v1.6.4) (2025-05-07)
+
+
+### Bug Fixes
+
+* Implement automerge version pull request workflow in add-automer… ([a86058f](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/a86058f52bfff8160669f9ee63a0058ddd4ca42e))
+
 ## [1.6.3](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.2...v1.6.3) (2025-05-07)
 
 
