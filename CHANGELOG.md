@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.6.0](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.5.1...v1.6.0) (2025-05-07)
+
+
+### Features
+
+* Implement automerge tag workflow and remove unused routes from … ([b82730e](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/b82730ec26a6af868a5d20882b1e5099971bb434))
+* Implement automerge tag workflow and remove unused routes from the server ([13aaf1e](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/13aaf1e64fe75f65bf7a9dae69bc7d19ce39443a))
+
+
+### Bug Fixes
+
+* Correct string quotation in log message for clarity ([e0f52fa](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/e0f52fa46e19cc1db0281f609f49ec90ed2f2d79))
+* Update GitHub Actions script version to v7 for improved functionality ([c9b2d0d](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/c9b2d0dcecdfc2453d97624b70c44a788e28fab0))
+
 ## [1.5.1](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.5.0...v1.5.1) (2025-05-07)
 
 
