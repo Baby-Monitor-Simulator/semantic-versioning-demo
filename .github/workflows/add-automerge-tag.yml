@@ -15,7 +15,7 @@ jobs:
                 const prName = context.payload.pull_request.title;
                 
                 if (prName.substring(0, 5) === 'chore') {
-                    await github.rest.issues.addLabels({
+                    github.rest.issues.addLabels({
                         owner: context.repo.owner,
                         repo: context.repo.repo,
                         issue_number: prNumber,
