@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.3](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.2...v1.6.3) (2025-05-07)
+
+
+### Bug Fixes
+
+* Add permissions for issues and pull requests in automerge tag wo… ([ceda9fa](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/ceda9fa13fc8417954333f7e853d7fd658e6fbb9))
+
 ## [1.6.2](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.1...v1.6.2) (2025-05-07)
 
 
