@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.2](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.1...v1.6.2) (2025-05-07)
+
+
+### Bug Fixes
+
+* Remove await from addLabels call in automerge tag workflow ([4f395af](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/4f395af6a8176dadc4ca1d36d5cef872e9345ce6))
+
 ## [1.6.1](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.0...v1.6.1) (2025-05-07)
 
 
