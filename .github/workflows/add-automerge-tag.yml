@@ -2,9 +2,12 @@ on:
   pull_request:
     types: ["opened", "reopened"]
     
-permissions: write-all
-  # issues: write
-  # pull-requests: write
+permissions:
+  issues: write
+  pull-requests: write
+  contents: write
+  checks: read
+  statuses: read
     
 jobs:
   add-label:
@@ -44,5 +47,3 @@ jobs:
         if: ${{ steps.automerge.outputs.mergeResult == 'merged' }}
         run: |
           echo "Pull request ${{ steps.automerge.outputs.pullRequestNumber }} merged!"
-                
-                
