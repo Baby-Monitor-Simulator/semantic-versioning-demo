@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.6](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.5...v1.6.6) (2025-05-09)
+
+
+### Bug Fixes
+
+* Update permissions in automerge tag workflow for better access c… ([372f86e](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/372f86e0af2ed6cc8f6344d098215f1679449af7))
+* Update permissions in automerge tag workflow for better access control ([a2474b7](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/commit/a2474b7fecc9a422baca4704675e42b2b72d13e5))
+
 ## [1.6.5](https://github.com/Baby-Monitor-Simulator/semantic-versioning-demo/compare/v1.6.4...v1.6.5) (2025-05-07)
 
 
